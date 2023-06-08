@@ -1,8 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using (EspacioTarea)
-{
-    
-}
+using EspacioTarea;
 
 List<Tarea> MiLista = new List<Tarea>();
 
