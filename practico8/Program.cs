@@ -3,4 +3,9 @@ using EspacioTarea;
 
 List<Tarea> MiLista = new List<Tarea>();
 
+foreach (int numero in Lista) {
 Console.WriteLine("Hello, World!");
+}
+
+
+
