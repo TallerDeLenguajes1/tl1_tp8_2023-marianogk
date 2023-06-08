@@ -3,7 +3,7 @@ using EspacioTarea;
 
 List<Tarea> MiLista = new List<Tarea>();
 
-foreach (int numero in Lista) {
+foreach (Tarea Tareas in MiLista) {
 Console.WriteLine("Hello, World!");
 }
 
